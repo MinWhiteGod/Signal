@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signal", "Signal.csproj", "{7102478B-B9BC-9D77-3389-A8B706E23046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signal.Plugins", "Signal.Plugins.csproj", "{2E04CEA8-E7F4-1741-A36A-EEB19FDFE1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7102478B-B9BC-9D77-3389-A8B706E23046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7102478B-B9BC-9D77-3389-A8B706E23046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7102478B-B9BC-9D77-3389-A8B706E23046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7102478B-B9BC-9D77-3389-A8B706E23046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E04CEA8-E7F4-1741-A36A-EEB19FDFE1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E04CEA8-E7F4-1741-A36A-EEB19FDFE1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E04CEA8-E7F4-1741-A36A-EEB19FDFE1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E04CEA8-E7F4-1741-A36A-EEB19FDFE1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
